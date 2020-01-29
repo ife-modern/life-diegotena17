@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset name="gol_gui_spritesheet" tilewidth="64" tileheight="64" spacing="6" tilecount="36" columns="6">
+ <image source="../img/gol_gui_spritesheet.png" width="414" height="414"/>
+ <tile id="0" type="arrow_block"/>
+ <tile id="1" type="arrow_stick"/>
+ <tile id="2" type="box_full"/>
+ <tile id="3" type="box_lid"/>
+ <tile id="4" type="gear_bolt"/>
+ <tile id="5" type="gear_full"/>
+ <tile id="6" type="gear_hole"/>
+ <tile id="7" type="gear_shaft"/>
+ <tile id="8" type="lens_minus"/>
+ <tile id="9" type="lens_plus"/>
+ <tile id="10" type="next_full"/>
+ <tile id="11" type="next_outline"/>
+ <tile id="12" type="open_arrow"/>
+ <tile id="13" type="open_basic"/>
+ <tile id="14" type="options_full"/>
+ <tile id="15" type="options_outline"/>
+ <tile id="16" type="edit"/>
+ <tile id="17" type="page_transfer_in"/>
+ <tile id="18" type="page_transfer_out"/>
+ <tile id="19" type="pause_full"/>
+ <tile id="20" type="pause_outline"/>
+ <tile id="21" type="play_full"/>
+ <tile id="22" type="play_outline"/>
+ <tile id="23" type="save_basic"/>
+ <tile id="24" type="save_block"/>
+ <tile id="25" type="save_text"/>
+ <tile id="26" type="stick_check"/>
+ <tile id="27" type="stick_cross"/>
+ <tile id="28" type="stick_minus"/>
+ <tile id="29" type="stick_plus"/>
+ <tile id="30" type="warning_block"/>
+ <tile id="31" type="warning_shrink"/>
+ <tile id="32" type="warning_stick"/>
+ <tile id="33" type="live_cell"/>
+ <tile id="34" type="dead_cell"/>
+ <tile id="35" type="background"/>
+</tileset>
